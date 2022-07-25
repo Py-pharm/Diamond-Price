@@ -4,7 +4,7 @@ In this project, I'll be working with a dataset regarding the prices and attribu
 
 ### Information on the Diamond Dataset
 
-price: Price in dollars. Data were collected in 2008.
+- price: Price in dollars. Data were collected in 2008.
 
 carat: Diamond weight. 1 carat is equal to 0.2 grams.
 
